@@ -1,0 +1,18 @@
+[USER]
+name=Jack Harley
+number=112233
+rank=Генерал
+teg=Г
+frak=ППС
+Key1=
+Key2=
+Key3=
+Key4=
+Key5=
+Key6=
+SID=
+disco1=JH#8888
+Key7=
+Key8=
+Key9=
+bankn=82373
