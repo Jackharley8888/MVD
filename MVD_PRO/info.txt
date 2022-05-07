@@ -1,0 +1,10 @@
+[USER]
+name=XXX_XXX
+number=xxxxxx
+rank=Генерал
+teg=Г
+frak=ППС
+SID=
+disco1=JH#8888
+antichat=Your|Text
+bankn=xxxxxx
