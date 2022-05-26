@@ -1,0 +1,14 @@
+[USER]
+name=Имя Фамлия
+number=777027
+rank=Генерал
+teg=Г
+kpk=Apple
+Key1=
+Key2=
+Key3=
+Key4=
+Key5=
+Key6=
+disco1=JH#8888
+bankn=1241
