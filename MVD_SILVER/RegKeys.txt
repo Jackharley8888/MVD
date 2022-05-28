@@ -51,7 +51,6 @@
 00331-10000-00001-AA358 Георгий Карасёв ( https://vk.com/lisingeorgii )
 00327-70000-00001-AA806 Арнур Башенов ( https://vk.com/arkos090710 )
 00330-80000-00000-AA110 Арсений Аникин ( https://vk.com/xaxaxaxaxazaxsxaxaxx )
-00371-OEM-8992671-00407 Алексей Меленцов ( https://vk.com/id664642342 )
 00261-50000-00000-AA989 Алексей Силонов ( https://vk.com/a.silonov7 )
 00425-00000-00002-AA349 Данил Мошебин ( https://vk.com/moshebin )
 00326-10000-00000-AA978 Тимур Бергутов ( https://vk.com/evan_grant21 )
@@ -75,3 +74,4 @@
 00326-10883-52561-AA046 Герман Костюкевич ( https://vk.com/k_o_s_t_u_k_e_v_i_c_h )
 55116-OEM-8900971-66894 Дмитрий Дрюпин ( https://vk.com/vsexsdelal )
 00329-60095-37953-AA350 Александр Миронов ( https://vk.com/realsnickers )
+00371-OEM-8992671-00407 Алексей Меленцов ( https://vk.com/id664642342 )
