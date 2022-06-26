@@ -172,3 +172,4 @@
 00331-10000-00001-AA289,Медведев Клим,https://vk.com/kmedvedev6
 00331-10000-00001-AA725,Матвей Усачев,https://vk.com/usachev35
 00331-10000-00001-AA036 Денис Клышта ( https://vk.com/denkr04 )
+00331-10000-00001-AA922,https://vk.com/qmoonq
