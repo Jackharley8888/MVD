@@ -176,3 +176,5 @@
 00330-80000-00000-AA555,Вячеслав Наймушин,https://vk.com/id584315054
 00325-81653-40121-AAOEM,https://vk.com/egor_adomson
 00330-80000-00000-AA488,Янг Литвинко,https://vk.com/glhfgoks
+00425-00000-00002-AA503,https://vk.com/b1aze.exfazo
+00330-80212-75098-AA130,https://vk.com/stepa_aaaaashkaaa
