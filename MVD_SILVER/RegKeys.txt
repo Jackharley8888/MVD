@@ -180,3 +180,4 @@
 00330-80212-75098-AA130,https://vk.com/stepa_aaaaashkaaa
 00330-80000-00000-AA561,Грицив,https://vk.com/id200387370
 00326-30000-00001-AA539,Антон Билкин,https://vk.com/artiskra
+00330-80000-00000-AA169,Глеб Комолов,https://vk.com/bllzzard
