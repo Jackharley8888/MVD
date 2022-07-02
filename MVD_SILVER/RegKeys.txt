@@ -181,7 +181,7 @@
 00330-80000-00000-AA561,Грицив,https://vk.com/id200387370
 00326-30000-00001-AA539,Антон Билкин,https://vk.com/artiskra
 00330-80000-00000-AA169,Глеб Комолов,https://vk.com/bllzzard
-00331-10000-00001-AA918,Дмитрий Ковальчюк,https://vk.com/anebax
+00330-80000-00000-AA236,Дмитрий Ковальчюк,https://vk.com/anebax
 00342-41427-63339-AAOEM,https://vk.com/zkirsanov2000
 00425-00000-00002-AA421,https://vk.com/r_omai_vanov
 00331-10000-00001-AA134,https://vk.com/sashok_12
