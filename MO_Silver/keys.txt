@@ -16,4 +16,3 @@
 00330-80000-00000-AA561,Грицив,https://vk.com/id200387370
 00330-80000-00000-AA730,https://vk.com/myerslax
 00327-30468-35056-AAOEM,https://vk.com/ykorolyov4
-00327-30204-55350-AAOEM,Дмитрий Катышев,https://vk.com/katyshev5
