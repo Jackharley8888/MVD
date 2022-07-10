@@ -205,4 +205,5 @@
 00326-10000-00000-AA424,https://vk.com/macalistervadim
 00330-80000-00000-AA920,Харлампьев Павел,https://vk.com/paroliw
 00330-80000-00000-AA095,Влад Кутенко,https://vk.com/vlaserg0
-00331-10000-00001-AA847,https://vk.com/tatarin_ice,
+00331-10000-00001-AA847,https://vk.com/tatarin_ice
+00327-70000-00001-AA941,http://vk.com/aaaaaaaaaaaaaaa94572
