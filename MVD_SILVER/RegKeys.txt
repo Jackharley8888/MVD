@@ -203,3 +203,4 @@
 00327-60000-00000-AA290,https://vk.com/gsyrov2000
 00325-96038-40514-AAOEM,https://vk.com/id519192979
 00326-10000-00000-AA424,https://vk.com/macalistervadim
+00330-80000-00000-AA920,Харлампьев Павел,https://vk.com/paroliw
