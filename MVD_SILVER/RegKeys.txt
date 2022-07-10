@@ -208,3 +208,4 @@
 00331-10000-00001-AA847,https://vk.com/tatarin_ice
 00327-70000-00001-AA941,http://vk.com/aaaaaaaaaaaaaaa94572
 00331-10000-00001-AA439,https://vk.com/anisov2003
+00331-10000-00001-AA858,Бейфус Влад,https://vk.com/ninjacg
