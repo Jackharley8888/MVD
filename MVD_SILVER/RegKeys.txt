@@ -212,3 +212,4 @@
 00326-10000-00000-AA128,https://vk.com/a.yuldashev1
 00330-80000-00000-AA411,https://vk.com/mnmnmmnmm
 00330-80000-00000-AA479,https://vk.com/mr.tah4uk
+00331-10000-00001-AA930,https://vk.com/maikljordan
