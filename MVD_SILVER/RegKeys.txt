@@ -214,5 +214,5 @@
 00330-80000-00000-AA479,https://vk.com/mr.tah4uk
 00331-10000-00001-AA930,https://vk.com/maikljordan
 00330-80000-00000-AA665,https://vk.com/pruvet_kakdela
-00331-10000-00001-AA010,Бобочка Молодой,vk.com/pronin3009
 00331-10000-00001-AA295,https://vk.com/vlad.melnikov4
+00331-20140-17039-AA587,https://vk.com/accidentsarenotaccidentall
