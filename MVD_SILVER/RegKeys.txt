@@ -217,3 +217,4 @@
 00331-10000-00001-AA295,https://vk.com/vlad.melnikov4
 00331-20140-17039-AA587,https://vk.com/accidentsarenotaccidentall
 00327-31091-37573-AAOEM,Миша Макаров,https://vk.com/urbanvteme
+00330-80000-00000-AA690,https://vk.com/m.gulyaev0
