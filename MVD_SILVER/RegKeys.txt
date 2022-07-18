@@ -225,3 +225,5 @@
 00330-80000-00000-AA177, MM
 00331-10000-00001-AA010,Бобочка Молодой,vk.com/pronin3009
 00425-00000-00002-AA217,https://vk.com/id718855242
+00327-30434-39200-AAOEM,https://vk.com/den4ik_64rus
+00331-10000-00001-AA917,https://vk.com/casperdonuld
