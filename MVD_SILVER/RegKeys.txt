@@ -230,3 +230,5 @@
 00330-80000-00000-AA961,https://vk.com/1nw1tee
 00330-80000-00000-AA324,Максим Шадоврейз,https://vk.com/perov19,
 00326-30000-00001-AA825,Илья Астроух,https://vk.com/poesnitika
+00330-80000-00000-AA563,https://vk.com/frili
+00327-31098-01332-AAOEM,https://vk.com/brezgin_young
