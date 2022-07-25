@@ -240,3 +240,4 @@
 00331-10000-00001-AA075,https://vk.com/barviharublevka
 4B6D3-5F46B-6C296-C1737,https://vk.com/maks.im360
 00330-80000-00000-AA127,https://vk.com/homka44
+00331-10000-00001-AA133,https://vk.com/ferdiname
