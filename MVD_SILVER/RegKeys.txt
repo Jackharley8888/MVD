@@ -248,3 +248,5 @@
 00327-60000-00000-AA724,https://vk.com/kotovskih_one
 00327-30443-58154-AAOEM,https://vk.com/14belikov26
 00329-10438-00000-AA269,https://vk.com/kanocorsa
+00327-30993-97087-AAOEM, https://vk.com/prostodrugg 
+00326-30000-00001-AA246,https://vk.com/sergey_lev1
