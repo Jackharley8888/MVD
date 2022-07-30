@@ -15,7 +15,7 @@ if enable_autoupdate then
         if autoupdate_loaded then
             Update.json_url = "https://raw.githubusercontent.com/Jackharley8888/MVD/main/version.json" .. tostring(os.clock())
             Update.prefix = "[" .. string.upper(thisScript().name) .. "]: "
-            Update.url = "https://github.com/qrlk/moonloader-script-updater/"
+            Update.url = "https://raw.githubusercontent.com/Jackharley8888/MVD/main/mvd_helper_silver.lua"
         end
     end
 end
@@ -341,6 +341,10 @@ function main()
 	end)
 
     imgui.Process = false
+    
+     if autoupdate_loaded and enable_autoupdate and Update then
+        pcall(Update.check, Update.json_url, Update.prefix, Update.url)
+    end
     
 	sampAddChatMessage(mvd.. " {FFFFFF}Здравствуйте. Вы запустили Silver MVD Helper [by Harley].")
 	sampAddChatMessage(mvd.. " {FFFFFF}Активация: Alt + G.")
