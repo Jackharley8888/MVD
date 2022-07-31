@@ -255,3 +255,4 @@
 00327-30992-51641-AAOEM,https://vk.com/goll8
 00330-51559-61619-AAOEM,https://vk.com/suntim
 00330-80000-00000-AA860,https://vk.com/danya_prince
+00330-80000-00000-AA092,https://vk.com/whoopsdng
