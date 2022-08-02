@@ -257,3 +257,4 @@
 00330-80000-00000-AA860,https://vk.com/danya_prince
 00330-80000-00000-AA092,https://vk.com/whoopsdng
 00327-31023-06654-AAOEM,https://vk.com/id649221646
+00425-00000-00002-AA263,https://vk.com/tambovqa
