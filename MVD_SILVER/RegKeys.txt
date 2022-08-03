@@ -259,3 +259,4 @@
 00327-31023-06654-AAOEM,https://vk.com/id649221646
 00425-00000-00002-AA263,https://vk.com/tambovqa
 00327-30864-96572-AAOEM,https://m.vk.com/id407034037
+00325-80000-00000-AAOEM,https://vk.com/vizivali1
