@@ -262,3 +262,4 @@
 00325-80000-00000-AAOEM,https://vk.com/vizivali1
 00331-20020-00000-AA443,https://vk.com/napas0
 00331-10000-00001-AA455,https://vk.com/okhinr
+00330-80000-00000-AA163,https://vk.com/ytebiamatsdoxla
