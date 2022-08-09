@@ -266,3 +266,5 @@
 00326-10000-00000-AA190,https://vk.com/un.crownedking
 00328-90000-00000-AAOEM,https://vk.com/vaaiis
 00331-10000-00001-AA965,https://vk.com/id519854553
+00331-10000-00001-AA453,https://vk.com/den1s017
+00326-10000-00000-AA173,https://vk.com/bazee
