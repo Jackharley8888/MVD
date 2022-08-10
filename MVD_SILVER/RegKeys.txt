@@ -271,3 +271,4 @@
 00342-41308-12957-AAOEM,https://vk.com/glavmell
 00325-81132-55486-AAOEM,https://vk.com/id439630618
 00327-30553-37109-AAOEM,https://vk.com/melov12
+00330-80000-00000-AA753,https://vk.com/q.chel
