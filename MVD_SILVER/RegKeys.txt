@@ -274,3 +274,4 @@
 00330-80000-00000-AA753,https://vk.com/q.chel
 00425-00000-00002-AA511,https://vk.com/danila_kross
 00325-80596-51321-AAOEM,https://vk.com/ali_bender
+00327-60000-00000-AA728,https://vk.com/id366311036
