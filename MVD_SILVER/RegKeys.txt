@@ -276,3 +276,4 @@
 00325-80596-51321-AAOEM,https://vk.com/ali_bender
 00327-60000-00000-AA728,https://vk.com/id366311036
 00331-10000-00001-AA640,https://vk.com/vlad9998
+00331-10000-00001-AA313,https://vk.com/churkaed9
