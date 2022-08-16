@@ -226,7 +226,7 @@
 00425-00000-00002-AA217,https://vk.com/id718855242
 00327-30434-39200-AAOEM,https://vk.com/den4ik_64rus
 00331-10000-00001-AA917,https://vk.com/casperdonuld
-00330-80000-00000-AA961,https://vk.com/1nw1tee
+00330-80000-00000-AA343,https://vk.com/1nw1tee
 00330-80000-00000-AA324,Максим Шадоврейз,https://vk.com/perov19,
 00326-30000-00001-AA825,Илья Астроух,https://vk.com/poesnitika
 00330-80000-00000-AA563,https://vk.com/frili
