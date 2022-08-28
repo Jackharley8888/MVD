@@ -290,3 +290,4 @@
 00327-30775-32419-AAOEM,https://vk.com/danilsemakov
 00326-30000-00001-AA302,https://vk.com/tagfresh
 00327-30203-25547-AAOEM,https://vk.com/tatarboy102
+00380-70000-00001-AAOEM,https://vk.com/saschadaw
