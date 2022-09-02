@@ -294,3 +294,4 @@
 00330-80000-00000-AA124,https://vk.com/kaliningradtop
 00330-80000-00000-AA879,https://vk.com/avdd271
 00331-10000-00001-AA683,https://vk.com/vladislav2789
+00328-20180-61566-AA293,https://vk.com/barski05
