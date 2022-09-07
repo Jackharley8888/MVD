@@ -298,3 +298,4 @@
 00330-80000-00000-AA651,https://vk.com/skwilv
 00327-30927-75790-AAOEM,https://vk.com/idsparkov
 00331-10000-00001-AA719,https://vk.com/matvey06markov
+00330-80000-00000-AA720,https://vk.com/escobar
