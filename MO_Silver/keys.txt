@@ -22,5 +22,5 @@
 00327-70000-00001-AA513,https://vk.com/radmir12medison
 00327-31023-06654-AAOEM,https://vk.com/id649221646
 00326-10000-00000-AA019,https://vk.com/bansoka
-00326-30000-00001-AA825, Herceg
+00326-30000-00001-AA825,Herceg
 00331-10000-00001-AA652,https://vk.com/kennchick
