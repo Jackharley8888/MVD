@@ -303,3 +303,4 @@
 00329-00000-00003-AA250,https://vk.com/id640285101
 00330-80000-00000-AA994,https://vk.com/0disneyland0
 00331-10000-00001-AA606,https://vk.com/stoneisland30
+00326-10000-00000-AA316,https://vk.com/dsereda2002
