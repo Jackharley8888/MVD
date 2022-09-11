@@ -304,3 +304,5 @@
 00330-80000-00000-AA994,https://vk.com/0disneyland0
 00331-10000-00001-AA606,https://vk.com/stoneisland30
 00326-10000-00000-AA316,https://vk.com/dsereda2002
+00330-80000-00000-AA471,https://vk.com/duzy88
+00327-30801-67333-AAOEM,https://vk.com/vor_malinki
