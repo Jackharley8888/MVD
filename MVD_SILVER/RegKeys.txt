@@ -308,3 +308,4 @@
 00327-30801-67333-AAOEM,https://vk.com/vor_malinki
 00331-10000-00001-AA082,https://vk.com/grif_yt
 00331-10000-00001-AA852,https://vk.com/idandreykaaref
+00326-10000-00000-AA361,https://vk.com/kirsanove
