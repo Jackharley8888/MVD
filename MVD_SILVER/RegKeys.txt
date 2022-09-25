@@ -4,7 +4,7 @@
 00330-80000-00000-AA097 Вада Марка
 00331-10000-00001-AA851 Никита Вишняков ( https://vk.com/johan_mansory )
 00330-80000-00000-AA278 Ахмед Каранаев ( https://vk.com/karanaev4042000 )
-00330-80000-00000-AA147 Степан Феофилов ( https://vk.com/0disneyland0 )
+00330-80000-00000-AA941 Степан Феофилов ( https://vk.com/0disneyland0 )
 00330-50000-00000-AAOEM Никита Тарасов ( https://vk.com/n.vegas14 )
 00326-10000-00000-AA553 максим князев ( https://vk.com/pila.pilit.detei.orydie.pitki )
 00330-80000-00000-AA629 Миша Лебешков ( https://vk.com/mike_repov )
@@ -301,7 +301,6 @@
 00330-80000-00000-AA720,https://vk.com/escobar
 00331-10000-00001-AA969,https://vk.com/kennchick
 00329-00000-00003-AA250,https://vk.com/id640285101
-00330-80000-00000-AA994,https://vk.com/0disneyland0
 00331-10000-00001-AA606,https://vk.com/stoneisland30
 00326-10000-00000-AA316,https://vk.com/dsereda2002
 00330-80000-00000-AA471,https://vk.com/duzy88
