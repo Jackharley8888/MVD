@@ -1,9 +1,9 @@
 [USER]
-name=Ваше имя
-number=111222333
-rank=Название ранга
-teg=ТЭГ
-frak=Ваша фракция
+name=Your Nick
+number=555666
+rank=Rang Name
+teg=TAG
+frak=Your Fraction
 Key1=
 Key2=
 Key3=
@@ -11,7 +11,7 @@ Key4=
 Key5=
 Key6=
 SID=
-disco1=ВашDiscord#1111
+disco1=YourDiscord#1111
 Key7=
 Key8=
 Key9=
