@@ -1,9 +1,9 @@
 [USER]
-name=Jack Harley
-number=112233
-rank=�������
-teg=�
-frak=���
+name=Ваше имя
+number=111222333
+rank=Название ранга
+teg=ТЭГ
+frak=Ваша фракция
 Key1=
 Key2=
 Key3=
@@ -11,8 +11,8 @@ Key4=
 Key5=
 Key6=
 SID=
-disco1=JH#8888
+disco1=ВашDiscord#1111
 Key7=
 Key8=
 Key9=
-bankn=82373
+bankn=112233
