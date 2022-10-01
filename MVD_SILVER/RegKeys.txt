@@ -327,3 +327,5 @@
 00330-80000-00000-AA226,https://vk.com/vladimir8007
 00327-60000-00000-AA264,https://vk.com/milkabrother
 0331-10000-00001-AA953,https://vk.com/id291897843
+00327-70000-00000-AA272,https://vk.com/demon0012
+00330-80000-00000-AA523,https://vk.com/yungvyshnya
