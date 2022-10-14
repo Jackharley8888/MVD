@@ -335,3 +335,4 @@
 00326-10000-00000-AA946,https://vk.com/tshikhmerzaev
 00331-10000-00001-AA061,https://vk.com/nis_15
 00326-10000-00000-AA769,https://vk.com/artsemiym
+00326-10000-00000-AA655,https://vk.com/zefrayy
