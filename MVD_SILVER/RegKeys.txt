@@ -343,3 +343,4 @@
 00327-31020-82818-AAOEM,https://vk.com/id572815976
 00330-80000-00000-AA816,https://vk.com/maxon3r
 00327-70000-00001-AA321,https://vk.com/konstantin.vasin
+00326-10000-00000-AA548,https://vk.com/dimakiselevoff
