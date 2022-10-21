@@ -345,3 +345,4 @@
 00327-70000-00001-AA321,https://vk.com/konstantin.vasin
 00326-10000-00000-AA548,https://vk.com/dimakiselevoff
 00326-10000-00000-AA735,https://vk.com/immortxlang3l
+00330-80000-00000-AA551,https://vk.com/t1ony
