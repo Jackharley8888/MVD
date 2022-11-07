@@ -359,3 +359,4 @@
 00330-80000-00000-AA425,https://vk.com/borov06
 00330-80000-00000-AA237,https://vk.com/loxerian
 00327-31096-07919-AAOEM,https://vk.com/o1007k
+00331-10000-00001-AA958,https://vk.com/id651365548
