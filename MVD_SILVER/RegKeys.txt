@@ -364,3 +364,4 @@
 00331-10000-00001-AA207,https://vk.com/kiaidy
 00425-00000-00002-AA710,https://vk.com/id539089605
 00329-00000-00003-AA419,https://vk.com/kirillk_official
+00330-80000-00000-AA309,https://vk.com/arc_warden0
