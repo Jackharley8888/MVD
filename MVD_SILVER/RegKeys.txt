@@ -16,7 +16,7 @@
 00331-20091-53025-AA070 Тимофей Добрынин ( https://vk.com/timafoot )
 00326-10000-00000-AA610 Рокет Спатулата ( https://vk.com/rocket221 )
 00342-41387-86200-AAOEM Егор Спорыхин ( https://vk.com/skeezhokage )
-00330-80000-00000-AA605 Матрикс 
+00330-80000-00000-AA680 Матрикс 
 00330-80000-00000-AA586 Никита Янин ( https://vk.com/hahyi_udi )
 00328-10000-00001-AA585 Ян Сухарев ( https://vk.com/suhariq )
 00327-43258-44754-AAOEM Макс Павлюченко ( https://vk.com/maximus_0d )
@@ -368,5 +368,5 @@
 00330-80000-00000-AA113,https://vk.com/denisslivulik
 00325-81851-79671-AAOEM,https://vk.com/zhigalov07
 00327-43231-07460-AAOEM,https://vk.com/danya_mell
-00330-80000-00000-AA680, мат
-00331-10000-00001-AA824, https://vk.com/yarukloh
+00331-10000-00001-AA824,https://vk.com/yarukloh
+00331-20020-00000-AA069,https://vk.com/vasheslavplotnikov
