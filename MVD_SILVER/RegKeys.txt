@@ -370,3 +370,4 @@
 00327-43231-07460-AAOEM,https://vk.com/danya_mell
 00331-10000-00001-AA824,https://vk.com/yarukloh
 00331-20020-00000-AA069,https://vk.com/vasheslavplotnikov
+00327-30933-52196-AAOEM,https://vk.com/t.strahov21
