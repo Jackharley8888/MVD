@@ -373,3 +373,4 @@
 00327-30933-52196-AAOEM,https://vk.com/t.strahov21
 00330-80000-00000-AA605,https://vk.com/krex7
 00426-OEM-8992662-00400,https://vk.com/fedorin_a
+00330-80000-00000-AA511,https://vk.com/jack_kalinin
