@@ -374,3 +374,4 @@
 00330-80000-00000-AA605,https://vk.com/krex7
 00426-OEM-8992662-00400,https://vk.com/fedorin_a
 00330-80000-00000-AA511,https://vk.com/jack_kalinin
+00342-41450-18494-AAOEM,https://vk.com/mafi4ok
