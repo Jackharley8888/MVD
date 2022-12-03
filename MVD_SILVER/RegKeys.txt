@@ -385,3 +385,4 @@
 00331-10000-00001-AA355,https://vk.com/cheldobrek_cs
 00326-10000-00000-AA453,https://vk.com/indepablo
 00330-80000-00000-AA391,https://vk.com/abbos06
+00327-31042-45606-AAOEM,https://vk.com/id351111165
