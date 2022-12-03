@@ -382,3 +382,6 @@
 00328-10000-00001-AA054,https://vk.com/aym92
 00325-81553-51125-AAOEM,https://vk.com/sparrow190
 00327-60000-00000-AA964,https://vk.com/leix_33
+00331-10000-00001-AA355,https://vk.com/cheldobrek_cs
+00326-10000-00000-AA453,https://vk.com/indepablo
+00342-41438-22120-AAOEM,https://vk.com/akhitrov1
