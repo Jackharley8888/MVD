@@ -184,7 +184,7 @@
 00342-41427-63339-AAOEM,https://vk.com/zkirsanov2000
 00425-00000-00002-AA421,https://vk.com/r_omai_vanov
 00331-10000-00001-AA134,https://vk.com/sashok_12
-00326-10884-83824-AA084,Eduard Zavgorodny,https://vk.com/edvard2050
+00326-10884-83824-AA874,Eduard Zavgorodny,https://vk.com/edvard2050
 00330-80000-00000-AA865,Волков Денис,https://vk.com/manarh_katana
 00330-80000-00000-AA142,https://vk.com/matteeeew
 00329-00000-00003-AA408,Максим Синицын,https://vk.com/id596122308
@@ -393,3 +393,4 @@
 00331-10000-00001-AA947,https://vk.com/id429761684
 00331-10000-00001-AA674,https://vk.com/top4eg22
 00326-10000-00000-AA822,https://vk.com/banned9
+00331-10000-00001-AA472,https://vk.com/soforqa
