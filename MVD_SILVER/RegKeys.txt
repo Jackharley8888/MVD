@@ -395,3 +395,4 @@
 00326-10000-00000-AA822,https://vk.com/banned9
 00331-10000-00001-AA472,https://vk.com/soforqa
 00329-00000-00003-AA555,https://vk.com/markus.ride
+00425-00000-00002-AA575,https://vk.com/salam011
