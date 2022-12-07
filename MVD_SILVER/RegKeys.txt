@@ -186,7 +186,7 @@
 00331-10000-00001-AA134,https://vk.com/sashok_12
 00326-10884-83824-AA874,Eduard Zavgorodny,https://vk.com/edvard2050
 00330-80000-00000-AA865,Волков Денис,https://vk.com/manarh_katana
-00330-80000-00000-AA142,https://vk.com/matteeeew
+00330-80000-00000-AA380,https://vk.com/matteeeew
 00329-00000-00003-AA408,Максим Синицын,https://vk.com/id596122308
 00371-868-0000007-85904,https://vk.com/id492968002
 00327-60000-00000-AA799,https://vk.com/darkmen7
@@ -394,3 +394,4 @@
 00331-10000-00001-AA674,https://vk.com/top4eg22
 00326-10000-00000-AA822,https://vk.com/banned9
 00331-10000-00001-AA472,https://vk.com/soforqa
+00329-00000-00003-AA555,https://vk.com/markus.ride
