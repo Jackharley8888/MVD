@@ -396,3 +396,5 @@
 00331-10000-00001-AA472,https://vk.com/soforqa
 00329-00000-00003-AA555,https://vk.com/markus.ride
 00425-00000-00002-AA575,https://vk.com/salam011
+00378-20000-00003-AA892,https://vk.com/rahhsgwore
+00327-30651-74007-AAOEM,https://vk.com/id767445053
