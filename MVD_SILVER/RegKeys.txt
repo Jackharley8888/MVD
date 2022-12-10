@@ -400,3 +400,4 @@
 00327-30651-74007-AAOEM,https://vk.com/id767445053
 00327-30773-71254-AAOEM,https://vk.com/hello_danya
 00326-10000-00000-AA130,https://vk.com/repunfiedtayler
+00327-30944-92597-AAOEM,https://vk.com/va.chikunov
