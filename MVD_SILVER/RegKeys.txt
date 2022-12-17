@@ -413,3 +413,4 @@
 00425-00000-00002-AA836,https://vk.com/artem_114
 00330-54060-52555-AAOEM,https://vk.com/stmezhut
 00378-20000-00003-AA247,https://vk.com/romanov_vd
+00331-10000-00001-AA424,https://vk.com/aligmen
