@@ -275,7 +275,7 @@
 00425-00000-00002-AA511,https://vk.com/danila_kross
 00325-80596-51321-AAOEM,https://vk.com/ali_bender
 00327-60000-00000-AA728,https://vk.com/id366311036
-00331-10000-00001-AA640,https://vk.com/vlad9998
+00331-10000-00001-AA688,https://vk.com/vlad9998
 00331-10000-00001-AA659,https://vk.com/churkaed9
 00342-41376-85690-AAOEM,https://vk.com/detlaffchik
 00330-80000-00000-AA417,https://vk.com/id640822820
@@ -416,3 +416,5 @@
 00331-10000-00001-AA424,https://vk.com/aligmen
 00330-80000-00000-AA783,https://vk.com/makc2344444
 00330-80000-00000-AA302,https://vk.com/id420366723
+00327-70000-00001-AA968,https://vk.com/yarukloh
+00425-00000-00002-AA799,https://vk.com/vlg_____134
