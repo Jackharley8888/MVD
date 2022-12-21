@@ -421,3 +421,4 @@
 00330-80000-00000-AA888,https://vk.com/bandittop
 00331-10000-00001-AA940,https://vk.com/timurkabits1
 00342-41425-39803-AAOEM,https://vk.com/steky_ebawit
+00425-00000-00002-AA715,https://vk.com/mrdenis_68
