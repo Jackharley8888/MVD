@@ -318,6 +318,7 @@
 00325-81944-63168-AAOEM,https://vk.com/d1a2v3i4d
 00330-80000-00000-AA717,https://vk.com/id747903763((1))
 00326-10000-00000-AA749,https://vk.com/id747903763((2))
+38053-OEM-9452787-96686,https://vk.com/id747903763((3))
 00330-80000-00000-AA780,https://vk.com/ebemvlada
 00330-80000-00000-AA051,https://vk.com/id656840794
 00330-80000-00000-AA734,https://vk.com/nickwilman
