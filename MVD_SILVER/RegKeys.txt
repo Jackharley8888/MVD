@@ -361,7 +361,7 @@
 00330-80000-00000-AA237,https://vk.com/loxerian
 00327-31096-07919-AAOEM,https://vk.com/o1007k
 00331-10000-00001-AA958,https://vk.com/id651365548
-00330-80000-00000-AA635,https://vk.com/id368060912
+00330-80000-00000-AA631,https://vk.com/id368060912
 00331-10000-00001-AA207,https://vk.com/kiaidy
 00425-00000-00002-AA710,https://vk.com/id539089605
 00329-00000-00003-AA419,https://vk.com/kirillk_official
@@ -426,3 +426,4 @@
 00327-31067-37663-AAOEM,https://vk.com/denhiknef
 00331-10000-00001-AA561,https://vk.com/id600529573
 00331-10000-00001-AA536,https://vk.com/motzzz
+00327-70000-00001-AA658,https://vk.com/mtagirovic
