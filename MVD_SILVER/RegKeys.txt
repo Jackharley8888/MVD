@@ -428,3 +428,4 @@
 00331-10000-00001-AA536,https://vk.com/motzzz
 00327-70000-00001-AA658,https://vk.com/mtagirovic
 00330-80000-00000-AA465,https://vk.com/x_kirin_x
+00329-00000-00003-AA725,https://vk.com/markus.ride
