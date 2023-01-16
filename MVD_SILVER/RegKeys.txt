@@ -331,7 +331,7 @@
 00327-70000-00000-AA272,https://vk.com/demon0012
 00330-80000-00000-AA523,https://vk.com/yungvyshnya
 00331-10000-00001-AA567,https://vk.com/ungunick
-00331-10000-00001-AA913,https://vk.com/prosto.samsa
+00331-10000-00001-AA428,https://vk.com/prosto.samsa
 00329-00000-00003-AA324,Стрелков Александр Александрович
 00326-10000-00000-AA946,https://vk.com/tshikhmerzaev
 00331-10000-00001-AA061,https://vk.com/nis_15
