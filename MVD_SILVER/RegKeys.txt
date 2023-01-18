@@ -437,3 +437,5 @@
 00331-10000-00001-AA185,https://vk.com/s.lebrer
 00342-42304-56849-AAOEM,https://vk.com/ermack_mirack
 00326-10000-00000-AA521,https://vk.com/dobi.phantoms
+00326-10000-00000-AA409,https://vk.com/romadevis12
+00330-80000-00000-AA603,https://vk.com/1ve4no_molodoi1
